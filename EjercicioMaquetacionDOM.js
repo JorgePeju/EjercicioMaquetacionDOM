@@ -1,1 +1,0 @@
-const FotoBanner = document.querySelector
