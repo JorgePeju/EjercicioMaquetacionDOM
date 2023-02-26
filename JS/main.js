@@ -14,9 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const bloque = document.getElementById("bloque");
 
-    cardImg.addEventListener("click", () => {
-    bloque.style.display = "block";
-});
+    cardImg.addEventListener("click", () => {});
 
 }) //LOAD
 
